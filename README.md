@@ -16,6 +16,11 @@ I’m a ServiceNow Certified System Administrator (CSA) with a strong technical 
 
 ## 🏆 Certifications
 - ✅ ServiceNow Certified System Administrator (CSA)
+- ✅ ITIL V4 Foundation
+- ✅ Microsoft 365 Certified: Enterprise Administrator Expert
+- ✅ MS 101 Microsoft 365 Mobility and Security
+- ✅ MS 100 Microsoft 365 Identity and Services
+- ✅ AZ 104 Azure Administrator
 
 ---
 
