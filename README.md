@@ -51,9 +51,6 @@ Designed and built an automated onboarding workflow using ServiceNow to simulate
 ### 🔹 Upcoming Projects
 - Service Request Approval & Escalation Workflow  
 - Additional automation-focused use cases
-
----
-
 <!-- ### 🔹 (Optional) Add More Projects Here
 - Service Request & Escalation Workflow *(Coming Soon)*  
 - More automation-focused solutions  -->
