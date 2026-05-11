@@ -65,7 +65,7 @@ Designed and built an automated onboarding workflow using ServiceNow to simulate
 ---
 
 ## Let’s Connect
-- LinkedIn: (https://www.linkedin.com/in/ramatajiboye/)
+- LinkedIn: https://www.linkedin.com/in/ramatajiboye/
 - Email: Ramatajiboyebox@gmail.com
 
 ---
