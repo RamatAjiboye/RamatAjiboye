@@ -1,6 +1,6 @@
 # Hi, I'm Ramat 👋
 
-Technical Specialist | Technical Specialist | ServiceNow Certified System Administrator (CSA) | Aspiring ServiceNow Developer | Service Automation Enthusiast  
+Technical Specialist | ServiceNow Certified System Administrator (CSA) | Aspiring ServiceNow Developer | Service Automation Enthusiast  
 
 ---
 
